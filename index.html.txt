@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>hello</title>
+<script>
+document.write("Hello Nepal");
+</script>
+</head>
+<body>
+<h2>Welcome to all</h2>
+Git demo
+</body>
+</html>
